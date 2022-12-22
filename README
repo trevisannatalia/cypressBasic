@@ -1,0 +1,9 @@
+#TO RUN IS NEEDED TO FOLLOW STEPS BELOW
+
+#1. npm install
+#2. yarn install
+
+
+#TO OPEN THE CYPRESS APP
+#- to run the tests: npx run
+#- to open cypress app: npx open
